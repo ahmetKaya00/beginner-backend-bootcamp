@@ -17,8 +17,16 @@
       "PackagePath": "staticwebassets\\img\\1.jpg"
     },
     {
+      "Id": "C:\\Users\\Kaya3\\Documents\\GitHub\\beginner-backend-bootcamp\\FormsApp\\wwwroot\\img\\14c1335c-fe30-4b7a-8956-a00ad86e51a7.png",
+      "PackagePath": "staticwebassets\\img\\14c1335c-fe30-4b7a-8956-a00ad86e51a7.png"
+    },
+    {
       "Id": "C:\\Users\\Kaya3\\Documents\\GitHub\\beginner-backend-bootcamp\\FormsApp\\wwwroot\\img\\2.jpeg",
       "PackagePath": "staticwebassets\\img\\2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Kaya3\\Documents\\GitHub\\beginner-backend-bootcamp\\FormsApp\\wwwroot\\img\\27b94af9-9388-42be-8551-190eb2cf0baa.png",
+      "PackagePath": "staticwebassets\\img\\27b94af9-9388-42be-8551-190eb2cf0baa.png"
     },
     {
       "Id": "C:\\Users\\Kaya3\\Documents\\GitHub\\beginner-backend-bootcamp\\FormsApp\\wwwroot\\img\\3.jpg",
@@ -27,6 +35,18 @@
     {
       "Id": "C:\\Users\\Kaya3\\Documents\\GitHub\\beginner-backend-bootcamp\\FormsApp\\wwwroot\\img\\4.jpg",
       "PackagePath": "staticwebassets\\img\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kaya3\\Documents\\GitHub\\beginner-backend-bootcamp\\FormsApp\\wwwroot\\img\\9dfe8ba1-5112-4cf3-b345-5ef356d9dcef.jpg",
+      "PackagePath": "staticwebassets\\img\\9dfe8ba1-5112-4cf3-b345-5ef356d9dcef.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kaya3\\Documents\\GitHub\\beginner-backend-bootcamp\\FormsApp\\wwwroot\\img\\de184ee1-2016-45e0-82ef-130008c8d475.png",
+      "PackagePath": "staticwebassets\\img\\de184ee1-2016-45e0-82ef-130008c8d475.png"
+    },
+    {
+      "Id": "C:\\Users\\Kaya3\\Documents\\GitHub\\beginner-backend-bootcamp\\FormsApp\\wwwroot\\img\\f67f679f-b1b0-478b-ae0a-0daa3ed5ca1c.png",
+      "PackagePath": "staticwebassets\\img\\f67f679f-b1b0-478b-ae0a-0daa3ed5ca1c.png"
     },
     {
       "Id": "C:\\Users\\Kaya3\\Documents\\GitHub\\beginner-backend-bootcamp\\FormsApp\\wwwroot\\js\\site.js",

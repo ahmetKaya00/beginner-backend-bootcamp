@@ -21,5 +21,25 @@ namespace FormsApp.Models{
         public static void CraeteProduct(Product entity){
             _products.Add(entity);
         }
+
+        public static void EditProduct(Product updateProduct){
+            var entity = _products.FirstOrDefault(p=>p.ProductId == updateProduct.ProductId);
+
+            if(entity != null){
+                entity.Name = updateProduct.Name;
+                entity.Price = updateProduct.Price;
+                entity.Image = updateProduct.Image;
+                entity.IsActive = updateProduct.IsActive;
+                entity.CategoryId = updateProduct.CategoryId;
+            }
+        }
+
+        public static void DeleteProduct(Product entity){
+            var PrdEntity = _products.FirstOrDefault(p=>p.ProductId == entity.ProductId);
+
+            if(PrdEntity != null){
+                _products.Remove(PrdEntity);
+            }
+        }
     }
 }
