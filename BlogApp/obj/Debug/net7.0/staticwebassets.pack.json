@@ -1,6 +1,10 @@
 {
   "Files": [
     {
+      "Id": "C:\\Users\\Kaya3\\Documents\\GitHub\\beginner-backend-bootcamp\\BlogApp\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
       "Id": "C:\\Users\\Kaya3\\Documents\\GitHub\\beginner-backend-bootcamp\\BlogApp\\wwwroot\\img\\1.png",
       "PackagePath": "staticwebassets\\img\\1.png"
     },
@@ -11,6 +15,14 @@
     {
       "Id": "C:\\Users\\Kaya3\\Documents\\GitHub\\beginner-backend-bootcamp\\BlogApp\\wwwroot\\img\\3.jpg",
       "PackagePath": "staticwebassets\\img\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kaya3\\Documents\\GitHub\\beginner-backend-bootcamp\\BlogApp\\wwwroot\\img\\p1.jpg",
+      "PackagePath": "staticwebassets\\img\\p1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kaya3\\Documents\\GitHub\\beginner-backend-bootcamp\\BlogApp\\wwwroot\\img\\p2.jpg",
+      "PackagePath": "staticwebassets\\img\\p2.jpg"
     },
     {
       "Id": "C:\\Users\\Kaya3\\Documents\\GitHub\\beginner-backend-bootcamp\\BlogApp\\wwwroot\\lib\\bootstrap-icons\\bootstrap-icons.svg",

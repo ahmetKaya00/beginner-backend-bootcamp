@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "AAIcaeXiBAI2ZEhgvykzPtjURdD0EpKeF3OoeYHG5LE=",
+  "Hash": "bnNwnbf7o04usWXtOMKy50q70IQghP0DZTu+wMtbEAI=",
   "Source": "BlogApp",
   "BasePath": "_content/BlogApp",
   "Mode": "Default",
@@ -16,6 +16,25 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "C:\\Users\\Kaya3\\Documents\\GitHub\\beginner-backend-bootcamp\\BlogApp\\wwwroot\\css\\style.css",
+      "SourceId": "BlogApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Kaya3\\Documents\\GitHub\\beginner-backend-bootcamp\\BlogApp\\wwwroot\\",
+      "BasePath": "_content/BlogApp",
+      "RelativePath": "css/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    },
     {
       "Identity": "C:\\Users\\Kaya3\\Documents\\GitHub\\beginner-backend-bootcamp\\BlogApp\\wwwroot\\img\\1.png",
       "SourceId": "BlogApp",
@@ -72,6 +91,44 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\3.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Kaya3\\Documents\\GitHub\\beginner-backend-bootcamp\\BlogApp\\wwwroot\\img\\p1.jpg",
+      "SourceId": "BlogApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Kaya3\\Documents\\GitHub\\beginner-backend-bootcamp\\BlogApp\\wwwroot\\",
+      "BasePath": "_content/BlogApp",
+      "RelativePath": "img/p1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\p1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Kaya3\\Documents\\GitHub\\beginner-backend-bootcamp\\BlogApp\\wwwroot\\img\\p2.jpg",
+      "SourceId": "BlogApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Kaya3\\Documents\\GitHub\\beginner-backend-bootcamp\\BlogApp\\wwwroot\\",
+      "BasePath": "_content/BlogApp",
+      "RelativePath": "img/p2.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\p2.jpg"
     },
     {
       "Identity": "C:\\Users\\Kaya3\\Documents\\GitHub\\beginner-backend-bootcamp\\BlogApp\\wwwroot\\lib\\bootstrap-icons\\bootstrap-icons.svg",
