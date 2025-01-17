@@ -9,8 +9,12 @@
                 }
             </div>
             <img src="~/img/@Model.Image" class="img-fluid rounded" alt="">
+            <ul class="list-inline my-3">
+                <li class="list-inline-item"><i class="bi bi-calender"></i>@Model.PublishedOn.ToString("d")</li>
+                <li class="list-inline-item"><i class="bi bi-person-circle"></i><a href="/profile/@Model.User.UserName">@Model.User.Name</a></li>
+            </ul>
             <div>
-                @Model.Content
+               @Html.Raw(@Model.Content);
             </div>
         </div>
         <div class="bg-white mt-3">
@@ -24,9 +28,11 @@
                         <div class="my-4 d-flex">
                             <img src="~/img/@comment.User.Image" class="avatar rounded-circle float-start me-3" alt="">
                             <div>
-                            <div class="mb-2">
-                                <h6>@comment.User.UserName</h6>
-                                <span>@comment.PublishedOn</span>
+                            <div class="mb-2 d-flex">
+                                <h6 class="me-2">
+                                    <a href="/profile/@comment.User.UserName">@comment.User.UserName</a>
+                                </h6>
+                                <small>@comment.PublishedOn.ToString("G")</small>
                             </div>
                             <p>@comment.Text</p>
                             </div>
